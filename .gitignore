@@ -230,3 +230,10 @@ data/processed/*
 
 # Python cache
 __pycache__/
+
+# ====================================
+# Generated outputs
+# ====================================
+
+results/*.xlsx
+results/*.csv
